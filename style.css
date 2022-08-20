@@ -15,9 +15,10 @@ label{
 }
 
 div{
+    height: 80%;
     margin-top: 30px;
     color: palegreen;
     font-family: 'Lobster', cursive;;
     font-size: large;
-    
 }
+
