@@ -4,5 +4,20 @@ body{
 }
 
 h1{
+    margin: 50px;
     font-family: 'Lobster', cursive;
+    color: aqua;
+}
+
+label{
+    padding: 10px;
+    font-family: 'Lobster', cursive;
+}
+
+div{
+    margin-top: 30px;
+    color: palegreen;
+    font-family: 'Lobster', cursive;;
+    font-size: large;
+    
 }
